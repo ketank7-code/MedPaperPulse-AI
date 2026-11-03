@@ -97,3 +97,4 @@ streamlit run streamlit_app.py
 ## Clinical Disclaimer & Limitations
 
 > **IMPORTANT**: MedPaperPulse-AI is an **educational and research-support tool** that processes abstract-level literature only. It is **not a medical device, diagnostic system, or treatment recommendation tool**. Always consult full-text peer-reviewed clinical publications and qualified healthcare professionals for medical decisions.
+

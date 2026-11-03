@@ -160,3 +160,4 @@ def test_run_evaluation_pipeline_mock(tmp_path):
     assert report["aggregate_metrics"]["numeric_faithfulness"]["meets_target"] is True
     assert report["aggregate_metrics"]["required_field_presence"]["meets_target"] is True
     assert out_file.is_file()
+

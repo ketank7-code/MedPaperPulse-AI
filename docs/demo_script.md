@@ -41,3 +41,4 @@
 - [ ] Honest missing-information indicator `"Not reported in the abstract."` is prominently demonstrated.
 - [ ] Clinical disclaimer is clearly stated.
 - [ ] Video duration is within the 4–5 minute limit.
+

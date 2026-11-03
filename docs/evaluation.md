@@ -177,3 +177,4 @@ The following results reflect the measured performance on the complete 16-case b
 1. Automate calculation of Cohen's kappa directly from filled `eval/manual_review_template.csv`.
 2. Expand benchmark dataset to 50 abstracts including non-English clinical trials and preprint servers.
 3. Add full-text PDF parsing evaluation once full-text retrieval is integrated.
+
